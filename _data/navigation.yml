@@ -1,12 +1,25 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+- title: "Home"
+  url: /
+- title: "Research"
+  url: /Research/
+- title: "Publications"
+  url: /Publications/
+- title: "Data & Code"
+  url: /Data/
+
+# Research
+research:
+- title: "Current"
+  url: /Research/#current
+- title: "Past"
+  url: /Research/#past
+
+
+# Data & Code
+datacode:
+- title: "Open Access Data"
+  url: /Data/#open-access-data
+- title: "Custom R Function and R Tutorials"
+  url: /Data/#custom-r-functions-and-r-tutorials

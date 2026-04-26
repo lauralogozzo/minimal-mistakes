@@ -1,0 +1,31 @@
+---
+title:  "Highest rates of gross primary productivity maintained despite CO2 depletion in a temperate river network"
+date:   May 5 2021
+categories: Publications
+header:
+  teaser: "/assets/images/THOM-thumbnail.PNG"
+---
+
+Aho, K., J.D. Hosen, **L.A. Logozzo**, W. McGillis, P.A. Raymond
+<br>
+May 2021 &middot; *Limnology and Oceanography Letters*
+
+![](/assets/images/THOM-thumbnail.PNG)
+
+<p align = "justify">
+Aquatic primary productivity produces oxygen (O<sub>2</sub>) and consumes carbon dioxide (CO<sub>2</sub>) in a
+ratio of ~1.2. However, in aquatic ecosystems, dissolved CO<sub>2</sub> concentrations can be low,
+potentially limiting primary productivity. Here, results show that a large drainage basin
+maintains its highest levels of gross primary productivity (GPP) when dissolved CO<sub>2</sub> is
+diminished or undetectable due to photosynthetic uptake. Data show that, after CO<sub>2<sub> is
+depleted, bicarbonate, an ionized form of inorganic carbon, supports these high levels of
+productivity. In fact, outputs from a process-based model suggest that bicarbonate can
+support up to ~58% of GPP under the most productive conditions. This is the first evidence
+ that high levels of aquatic GPP are sustained in a riverine drainage network despite CO<sub>2</sub>
+ depletion, which has implications for freshwater ecology, biogeochemistry, and isotopic
+ analysis.
+</p>
+
+<a class = "btn btn--primary" href="https://doi.org/10.1002/lol2.10195" target="_blank">Read more <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+
+<br>

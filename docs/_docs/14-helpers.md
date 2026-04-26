@@ -36,7 +36,7 @@ toc_label: "Helpers"
 toc_icon: "cogs"
 ---
 
-You can think of these Jekyll helpers as little shortcuts. Since GitHub Pages doesn't allow most plugins --- [custom tags](https://jekyllrb.com/docs/plugins/#tags) are out. Instead the theme leverages [**includes**](https://jekyllrb.com/docs/templates/#includes) to do something similar.
+You can think of these Jekyll helpers as little shortcuts. Since GitHub Pages doesn't allow most plugins --- [custom tags](https://jekyllrb.com/docs/plugins/#tags) are out. Insxd the theme leverages [**includes**](https://jekyllrb.com/docs/templates/#includes) to do something similar.
 
 ## Group by array
 

@@ -1,0 +1,45 @@
+---
+
+title:  "Contributions of Fe(III) to UV–Vis absorbance in river water: a case study on the Connecticut River and argument for the systematic tandem measurement of Fe(III) and CDOM"
+date:   May 16 2022
+categories: Publications
+tags: sticky
+header:
+  teaser: "/assets/images/FARM-fall-cropped.JPG"
+
+---
+
+**Logozzo, L.A.**, J. Martin, J. McArthur, P.A. Raymond
+<br>
+May 2022 &middot; *Biogeochemistry*
+
+![](/assets/images/FARM-fall-cropped.JPG)
+
+<p align = "justify">
+Dissolved organic matter (DOM) impacts the structure and function of aquatic ecosystems.
+DOM absorbs light in the UV and visible (UV–Vis) wavelengths, thus impacting light
+attenuation. Because absorption by DOM depends on its composition, UV–Vis absorbance is
+used to constrain DOM composition, source, and amount. Ferric iron, Fe(III), also absorbs
+in the UV–Vis; when Fe(III) is present, DOM-attributed absorbance is overestimated. Here,
+we explore how differing behavior of DOM and Fe(III) at the catchment scale impacts UV–Vis
+absorbance and evaluate how system-specific variability impacts the effectiveness of
+existing Fe(III) correction factors in a temperate watershed. We sampled five sites
+in the Connecticut River mainstem bi-weekly for ~ 1.5 years, and seven sites in the
+Connecticut River watershed once during the summer 2019. We utilized size fractionation
+to isolate the impact of DOM and Fe(III) on absorbance and show that variable contributions
+of Fe(III) to absorbance at 254 nm (a<font size=2><sub>254</sub></font>) and 412 nm
+(a<font size=2><sub>412</sub></font>) by size fraction complicates
+correction for Fe(III). We demonstrate that the overestimation of DOM-attributed absorbance
+by Fe(III) is correlated to the Fe(III):dissolved organic carbon concentration ratio;
+thus, overestimation can be high even when Fe(III) is low. a<font size=2><sub>254</sub></font> overestimation is highly
+variable even within a single system, but can be as high as 53%. Finally, we illustrate
+that UV-Vis overestimation might impart bias to seasonal, discharge, and land-use trends
+in DOM quality. Together, these findings argue that Fe(III) should be measured in tandem
+with UV–Vis absorbance for estimates of CDOM composition or amount.
+</p>
+
+<a class = "btn btn--primary" href="https://doi.org/10.1007/s10533-022-00937-5" target="_blank">Read more <i class="fa-solid fa-arrow-up-right-from-square"></i> </a>
+
+
+
+<br>

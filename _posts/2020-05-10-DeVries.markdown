@@ -1,0 +1,41 @@
+---
+
+title:  "The Effects of Trace Narasin on the Biogeochemical N-Cycle in a Cultivated Sandy Loam"
+date:   May 10 2020
+categories: Publications
+header:
+  overlay_image: "https://ars.els-cdn.com/content/image/1-s2.0-S0048969720305416-ga1_lrg.jpg"
+  teaser: "https://ars.els-cdn.com/content/image/1-s2.0-S0048969720305416-ga1_lrg.jpg"
+---
+
+##### DeVries, S., Loving, M.,  **Logozzo, L.**, Zhang, P., Block, K. <br>
+###### May 2020 &middot; *Science of the Total Environment*
+
+<p align = "justify">
+Narasin is an antibiotic administered to broiler chickens to prevent coccidiosis.
+After storage, excreta containing parent narasin compounds is commonly spread as nitrogen fertilizer,
+yielding initial soil concentrations in the low μg·kg<sup>−1</sup> range. In soil, antibiotics have
+been found to modify one or more pathways in the biogeochemical nitrogen cycle. The concentrations
+tested are often too high to be considered environmentally relevant, despite evidence that
+sub-therapeutic doses may also be disruptive. We conducted soil mesocosm experiments to
+determine the overall impact of trace narasin on major nitrogen pools and fluxes in soils
+treated with 0, 1, 10, 100, or 1000 ng·kg<sup>−1</sup> narasin. Water content in the mesocosms varied
+from 40% to 80% water-filled pore space (WFPS), simulating a range of different redox
+conditions. Under aerobic conditions (40% WFPS), exposure to narasin inhibited nitrification,
+yielding increases in soil ammonium by up to 76%, perhaps by targeting nitrifying fungi.
+Under the same conditions, narasin caused soil nitrate concentrations to decline 17–39%.
+When the soil was near saturation (80% WFPS), nitrate increased by an average of 30%.
+Mass balances and isotopic enrichment of N<sub>2</sub>O indicate that NAR may also affect anammox and
+the rate of nitrifier nitrification/denitrification. In aerobic soils, N<sub>2</sub>O flux increased
+with antibiotic dose and the rise in flux strongly correlates to the N2O:N2 product ratio
+from dentification. This relationship suggests that N2O flux may increase in soils exposed
+to narasin even when total denitrification is modestly inhibited. We conclude that trace
+concentrations of narasin can significantly modify biogeochemical activities in soil on
+short timescales. Our results indicate the potential for extremely low concentrations of
+antibiotics to impact agricultural productivity, terrestrial N<sub<2</sub>O flux, and non-point source
+nitrogen pollution.
+</p>
+
+<a href="https://www.sciencedirect.com/science/article/pii/S0048969720305416?via%3Dihub" target="_blank">Read more</a>
+
+<br>

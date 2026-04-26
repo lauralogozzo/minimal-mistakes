@@ -1,0 +1,43 @@
+---
+
+title:  "Agricultural land use impacts aquatic greenhouse gas emissions from wetlands in the
+Canadian Prairie Pothole Region"
+date:   Mar 15 2025
+categories: Publications
+tags: sticky
+header:
+  teaser: "/assets/images/gcb graphical abstract.svg"
+
+---
+
+**Logozzo, L.A.**, C. Soued, L.E. Bortolotti, P. Badiou, P. Kowal, B. Page, M.J. Bogard
+<br>
+Mar 2025 &middot; *Global Biogeochemical Cycles*
+
+![](/assets/images/gcb graphical abstract.svg)
+
+<p align = "justify">
+The Prairie Pothole Region (PPR) is the largest wetland complex in North America, with
+millions of wetlands punctuating the landscapes of Canada and the United States. Here,
+wetlands have been dramatically impacted by agricultural land use, with unclear implications
+ for regional to global greenhouse gas (GHG) emissions budgets. By surveying wetlands
+ across all three Canadian prairie provinces in the PPR, we show that emissions patterns
+ of carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), and nitrous oxide (N<sub>2</sub>O) from aquatic habitats
+ differ among wetlands embedded in cropland versus perennial landcover. Wetlands in
+ cropped landscapes had double the aquatic diffusive emissions
+ (20.6 ± 31.5 vs. 9.4 ± 17.3 g CO<sub>2</sub>-eq m<sup>−2</sup> d<sup>−1</sup>) largely driven by CH<sub>4</sub>. Structural equation
+ modeling showed that all three GHGs responded differently to the surrounding landscape
+ properties. Emissions of CH<sub>4</sub> were the most sensitive to land use, responding positively
+ to the elevated phosphorus content and lower sulfate content in cropped settings, despite
+ higher organic matter content in wetlands in perennial landscapes. Aquatic N2O emissions
+ were negligible, while CO<sub>2</sub> emissions were high, but not strongly related to agricultural
+ land use. While our estimates of aquatic CH<sub>4</sub> emissions from PPR wetlands were high
+ (18.2 ± 41.4 mmol CH<sub>4</sub> m<sup>−2</sup> d<sup>−1</sup>), accounting for fluxes from vegetated and soil habitats
+ would lead to whole-wetland emissions rates that are lower and comparable to wetlands
+ in other biomes. Our study represents an important step toward understanding wetland
+ emission responses to land use in the PPR and other wetland-rich agricultural landscapes.
+</p>
+
+<a class="btn btn--primary" href="https://doi.org/10.1029/2024GB008209" target="_blank">Read more <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+
+<br>

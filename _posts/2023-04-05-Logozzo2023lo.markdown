@@ -1,0 +1,43 @@
+---
+
+title:  "Distinct drivers of two fractions of operationally dissolved iron in a temperate river"
+date:   Apr 5 2023
+categories: Publications
+tags: sticky
+header:
+  teaser: "/assets/images/Figure1.png"
+
+---
+
+**Logozzo, L.A.**, J.D. Hosen, J. McArthur, P. Raymond <br>
+Apr 2023 &middot; *Limnology & Oceanography*
+
+![](/assets/images/Figure1.png)
+
+<p align = "justify">
+Riverine dissolved iron (Fe) affects water color, nutrients, and marine carbon cycling.
+Fe size and coupling with dissolved organic matter (DOM), in part, modulates the
+biogeochemical roles of riverine Fe. We used size fractionation to operationally define
+dissolved Fe (< 0.22 μm) into soluble (< 0.02 μm) and colloidal (0.02–0.22 μm) fractions
+in order to characterize the downstream drivers, concentrations, and fluxes of Fe across
+season and hydrologic regime at the freshwater Connecticut River mainstem, which we
+sampled bi-weekly for 2 yrs. Drivers of colloidal and soluble Fe concentrations were
+markedly different. The response of colloidal Fe concentration to changes in discharge was
+modulated by water temperature; colloidal Fe decreased with increasing discharge at
+temperatures < 10.5°C, but increased with increasing discharge at temperatures > 10.5°C.
+Conversely, soluble Fe concentrations were only positively correlated to discharge at high
+temperatures (> 20°C). Soluble Fe was strongly positively correlated to a humic-like DOM
+fluorescence component, suggesting coupling with DOM subsets, potentially through
+complexation. While average colloidal Fe fluxes varied twofold seasonally, soluble Fe
+fluxes varied ninefold; therefore, soluble Fe variability was more important to the
+overall dissolved Fe variability than colloidal Fe, despite lower concentrations. Seasonal
+Fe fluxes were decoupled from discharge: dissolved and soluble Fe fluxes were greatest in
+the fall, whereas discharge was greatest in the spring. Fluxes of soluble Fe, which may be
+more bioavailable and more likely to be exported to the ocean, were lowest in the summer
+when downstream biological demand is high, having implications for primary productivity
+and iron uptake.
+</p>
+
+<a class = "btn btn--primary" href="https://doi.org/10.1002/lno.12338" target="_blank">Read more <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+
+<br>

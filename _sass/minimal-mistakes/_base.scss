@@ -155,7 +155,11 @@ code,
 kbd,
 samp,
 pre {
+  background-color: $code-background-color;
   font-family: $monospace;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: $code-text-color;
 }
 
 pre {
